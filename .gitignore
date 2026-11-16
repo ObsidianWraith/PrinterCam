@@ -1,0 +1,15 @@
+# Local builds and camera settings
+/PrinterCam.exe
+/printercam
+/bin/
+/dist/
+*.zip
+*.dat
+bridge.json
+*.log
+*.key
+*.pem
+*.pfx
+.env
+.env.*
+*.tmp
